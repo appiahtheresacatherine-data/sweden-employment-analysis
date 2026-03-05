@@ -55,6 +55,7 @@ The chart below shows employment trends between 2020 and 2024.
 ## Key Insight
 Employment among Swedish-born individuals remains significantly higher than among foreign-born individuals. However, the data indicates a gradual reduction in the employment gap between the two groups from 2020 to 2024.
 This trend suggests a modest improvement in labour market integration for foreign-born individuals in Sweden during the observed period.
+
 Source: Statistics Sweden (SCB), Labour Market Statistics.
 
 ## Author
