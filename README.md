@@ -20,7 +20,7 @@ Variables included:
 - Basic trend analysis
 
 ## Visualization
-The chart below shows employment trends between 2020 and 2024.
+The chart below illustrates employment trends in Sweden between 2020 and 2024 for Swedish-born and Foreign-born individuals aged 20-64.
 
 ![Employment Trends](Picture1.png)
 
