@@ -57,8 +57,11 @@ Employment among Swedish-born individuals remains significantly higher than amon
 This trend suggests a modest improvement in labour market integration for foreign-born individuals in Sweden during the observed period.
 Source: Statistics Sweden (SCB), Labour Market Statistics.
 ## Author 
-Theresa Catherine Appiah , MD
+**Theresa Catherine Appiah , MD**
 Global Health & Data Analaysis Enthusiast
+
 Co-Founder of Integrate360 Consult
-Research interested in migration,labour market integration, and public health data analysis. 
-www.linkedin.com/in/theresa-catherine-appiah-md-hso-mhart-5aa58936
+
+Research interested in migration,labour market integration, and public health data analysis.
+
+Linkedin: https://www.linkedin.com/in/theresa-catherine-appiah-md-hso-mhart-5aa58936
