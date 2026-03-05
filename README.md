@@ -53,7 +53,7 @@ Variables included:
 ## Visualization
 The chart below shows employment trends between 2020 and 2024.
 
-![Employment Trends](Picture1.png)
+![Employment Trends](Picture2.png)
 
 ## Key Insight
 Employment among Swedish-born individuals remains significantly higher than among foreign-born individuals. Both groups show a slight downward trend over the observed period.
