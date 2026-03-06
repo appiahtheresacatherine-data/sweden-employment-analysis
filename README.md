@@ -70,7 +70,7 @@ Source: Statistics Sweden (SCB), Labour Market Statistics.
 
 Download the interactive dashboard here:
 
-[Download Power BI Dashboard](Labour Market Integration Sweden pbix.pbix)
+[Download Power BI Dashboard](sweden-labour-market-dashboard.pbix)
 
 ---
 
