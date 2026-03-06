@@ -66,8 +66,11 @@ Source: Statistics Sweden (SCB), Labour Market Statistics.
 ### Employment Trend
 ![Dashboard](IMG_2483.jpeg)
 
-### Employment Gap
-![Employment Gap](Picture2.png)
+## Power BI Dashboard File
+
+Download the interactive dashboard here:
+
+[Download Power BI Dashboard](Labour Market Integration Sweden pbix.pbix)
 
 ---
 
