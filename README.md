@@ -64,7 +64,7 @@ Source: Statistics Sweden (SCB), Labour Market Statistics.
 ## Dashboard Preview
 
 ### Employment Trend
-![Employment Trend](Picture1.png)
+![Dashboard](IMG_2483.jpeg)
 
 ### Employment Gap
 ![Employment Gap](Picture2.png)
