@@ -16,8 +16,9 @@ Variables included:
 
 ## Tools Used
 - Microsoft Excel
-- Data visualization using line charts
-- Basic trend analysis
+- Mircosoft Power BI
+- Data visualization 
+- Trend analysis
 
 ## Visualization
 The chart below illustrates employment trends in Sweden between 2020 and 2024 for Swedish-born and Foreign-born individuals aged 20-64.
@@ -57,6 +58,29 @@ Employment among Swedish-born individuals remains significantly higher than amon
 This trend suggests a modest improvement in labour market integration for foreign-born individuals in Sweden during the observed period.
 
 Source: Statistics Sweden (SCB), Labour Market Statistics.
+
+---
+
+## Dashboard Preview
+
+### Employment Trend
+![Employment Trend](Picture1.png)
+
+### Employment Gap
+![Employment Gap](Picture2.png)
+
+---
+
+## Key Insight
+
+Employment among Swedish-born individuals remains consistently higher than among foreign-born individuals. However, the data shows a gradual reduction in the employment gap between the two groups from 2020 to 2024, suggesting modest improvements in labour market integration.
+
+---
+
+## Data Source
+
+Statistics Sweden (SCB) – Labour Market Statistics
+
 
 ## Author
 
