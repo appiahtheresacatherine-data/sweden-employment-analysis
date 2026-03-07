@@ -64,7 +64,7 @@ Source: Statistics Sweden (SCB), Labour Market Statistics.
 ## Dashboard Preview
 
 ### Employment Trend
-![Dashboard](power_dashboard_clear.png)
+![Dashboard](powerbi_dashboard_clear.png)
 
 ## Power BI Dashboard File
 
