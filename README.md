@@ -104,7 +104,7 @@ Future analysis could explore these factors to better understand labour market i
 
 Statistics Sweden (SCB) – Labour Market Statistics
 
-##Author
+## Author
 
 Theresa Catherine Appiah, MD
 
