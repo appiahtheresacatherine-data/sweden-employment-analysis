@@ -104,8 +104,9 @@ Future analysis could explore these factors to better understand labour market i
 
 Statistics Sweden (SCB) – Labour Market Statistics
 
-Author
+##Author
 Theresa Catherine Appiah, MD
+
 Global Health & Data Analytics Enthusiast  
 Co-Founder, Integrate360 Consult
 Research interests include migration, labour market integration, and public health data analysis.
