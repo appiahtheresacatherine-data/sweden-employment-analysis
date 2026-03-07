@@ -94,9 +94,12 @@ Employment among Swedish-born individuals remains consistently higher than among
 Limitations
 
 This analysis focuses on aggregate employment numbers and does not account for:
-• education level
-• duration of residence in Sweden
-• sector of employment
+
+• Education level
+
+• Duration of residence in Sweden
+
+• Sector of employment
 
 Future analysis could explore these factors to better understand labour market integration dynamics.---
 
