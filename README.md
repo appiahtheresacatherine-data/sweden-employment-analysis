@@ -59,7 +59,14 @@ This trend suggests a modest improvement in labour market integration for foreig
 
 Source: Statistics Sweden (SCB), Labour Market Statistics.
 
----
+## Sweden Labour Market Integration Analysis (Power BI)
+
+This project analyzes labour market integration in Sweden by comparing employment trends between Swedish-born and foreign-born workers from 2020 to 2024.
+
+The dashboard highlights:
+- Employment trends over time
+- Differences between Swedish-born and foreign-born workers
+- The employment gap between the two groups---
 
 ## Dashboard Preview
 
