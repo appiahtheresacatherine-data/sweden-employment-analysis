@@ -111,5 +111,6 @@ Theresa Catherine Appiah, MD
 Global Health & Data Analytics Enthusiast  
 Co-Founder, Integrate360 Consult
 Research interests include migration, labour market integration, and public health data analysis.
+
 LinkedIn: https://www.linkedin.com/in/theresa-catherine-appiah-md-hso-mhart-5aa58936
 
